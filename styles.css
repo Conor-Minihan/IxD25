@@ -5,3 +5,10 @@ h1{
 div{
   background-color: gray;
 }
+
+p{
+  padding: 10px;
+  width: 800px;
+  height: 800px;
+  text-align: justify;
+}
