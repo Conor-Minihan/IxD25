@@ -13,3 +13,8 @@ p{
   width: 800px;
   text-align: justify;
 }
+
+a{
+  color: black;
+  text-decoration: none;
+}
