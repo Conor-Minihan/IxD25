@@ -18,3 +18,7 @@ a{
   color: black;
   text-decoration: none;
 }
+
+table{
+  border: 2px solid black;
+}
