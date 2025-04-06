@@ -19,6 +19,6 @@ a{
   text-decoration: none;
 }
 
-table{
+table, th, td{
   border: 2px solid black;
 }
