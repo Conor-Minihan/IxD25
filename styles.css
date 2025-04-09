@@ -29,3 +29,15 @@ td{
   border: 2px solid black;
   width: 200;
 }
+
+#green{
+  background-color: green;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#red{
+  background-color: red;
+}
