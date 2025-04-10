@@ -41,3 +41,7 @@ td{
 #red{
   background-color: rgb(236, 108, 108);
 }
+
+img{
+  width: 400px;
+}
